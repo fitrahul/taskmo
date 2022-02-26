@@ -43,7 +43,7 @@ router.get("/female", async (req, res) => {
 
 // 5. search by name =>
 router.get("/name", async (req,res) => {
-    let user = await User.findOne(req.params.name).lean().exec();
+    let user = await User.find().lean().exec();
     return res.status(201).send({user});
 });
 

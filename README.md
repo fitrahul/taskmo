@@ -1,4 +1,4 @@
-# taskmo
+# Taskmo
 
 > This is simple app where user can see the detail of all users
 

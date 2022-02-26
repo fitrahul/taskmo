@@ -1,0 +1,25 @@
+
+full name
+phone
+email
+gender
+dob
+profile image
+register date
+
+backend: mysql
+sever side: nodejs
+front end: react js, context api, material UI
+
+functionalies
+create 
+update 
+delete
+view
+
+table feauters
+. server side pagination
+. server side sorting
+  server side index
+. server side filter
+. server side search
